@@ -1,0 +1,25 @@
+{
+  "name": "carrito-uleam",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.22",
+    "init": "^0.1.2",
+    "npx": "^10.2.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
+    "vite": "^7.2.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.84.0",
+    "date-fns": "^4.1.0",
+    "leaflet": "^1.9.4",
+    "sweetalert2": "^11.26.3"
+  }
+}
