@@ -38,7 +38,7 @@ export function LandingPage() {
             <span class="gradient-text">ULEAM</span>
           </h1>
           <p class="hero-subtitle">
-            Transporte universitario inteligente. Conoce en tiempo real dónde están los carritos,
+            Conoce en tiempo real dónde están los carritos,
             sus rutas y horarios. Nunca más pierdas el transporte.
           </p>
           <div class="hero-buttons">
