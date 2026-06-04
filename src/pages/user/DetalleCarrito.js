@@ -1,5 +1,5 @@
 import { Navbar } from '../../components/Navbar.js';
-import { HorarioTable } from '../../components/HorarioTable.js';
+import { HorarioTable } from '../../components/Horariotable.js';
 import { MapComponent } from '../../components/Map.js';
 import { getCarritoById } from '../../services/carritos.js';
 import { getHorariosByCarrito, getPosicionCarrito } from '../../services/horarios.js';
