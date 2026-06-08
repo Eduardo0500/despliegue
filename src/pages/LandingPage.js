@@ -34,7 +34,7 @@ export function LandingPage() {
         <div class="hero-content fade-in">
           <div class="hero-icon">🚌</div>
           <h1 class="hero-title">
-            Sistema de Carritos
+            Gestion de Carritos
             <span class="gradient-text">ULEAM</span>
           </h1>
           <p class="hero-subtitle">
