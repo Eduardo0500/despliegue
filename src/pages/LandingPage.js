@@ -38,8 +38,8 @@ export function LandingPage() {
             <span class="gradient-text">ULEAM</span>
           </h1>
           <p class="hero-subtitle">
-            Conoce en tiempo real dónde están los carritos,
-            sus rutas y horarios. Nunca más pierdas el transporte.
+            Ubica los carritos en tiempo real, consulta sus rutas y horarios al instante. 
+            Muévete con confianza y llega a tu destino sin esperas innecesarias.
           </p>
           <div class="hero-buttons">
             <a href="#/login" class="btn btn-primary btn-large">
